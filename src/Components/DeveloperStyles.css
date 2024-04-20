@@ -1,0 +1,21 @@
+.Developer{
+    margin: 4rem 6rem;
+}
+.dev-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+}
+.image{
+    display: flex;
+    width:30%;
+}
+.image h2{
+    margin: 3rem;
+    /* margin-top: 17rem;
+    margin-left: 6rem; */
+}
+.image img{
+border-radius: 60px;
+}
